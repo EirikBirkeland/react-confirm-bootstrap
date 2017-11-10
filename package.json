@@ -1,7 +1,7 @@
 {
-  "name": "react-confirm-bootstrap",
-  "version": "4.0.0",
-  "description": "Confirm Dialog for react with Bootstrap Modal",
+  "name": "cth-react-confirm-bootstrap",
+  "version": "0.0.1",
+  "description": "UNMAINTAINED FORK - See 'react-confirm-bootstrap' instead!",
   "main": "lib/Confirm.js",
   "scripts": {
     "build": "gulp build",
